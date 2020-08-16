@@ -23,4 +23,5 @@ sudo apt install ros-<your_version_of_ros>-joint-state-publisher-gui
     *  Now ,On a different terminal  
     cd/manipulator_rviz  
     *  python pub_try1.py  
-Then initially set all values to zero , to get the default position of the manipulator . After this you can now check for different values as well
+Then initially set all values to zero , to get the default position of the manipulator .  
+After this you can now check for different values.
