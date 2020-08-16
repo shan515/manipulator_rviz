@@ -9,9 +9,9 @@ Repo with new URDF of manipulator to visualize in RViz and using command line as
   
   
 *  roslaunch manipulator_rviz display.launch  
-If you come across this error  
+    *  If you come across this error  
 Could not find the GUI, install the 'joint_state_publisher_gui' package  
-Install  using  
+    *  Install  using  
 sudo apt install ros-<your_version_of_ros>-joint-state-publisher-gui 
   
   
